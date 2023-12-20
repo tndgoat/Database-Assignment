@@ -1,2 +1,2 @@
-# Database-Assignment
+# Database Assignment
 Database Assignment in Sem231
